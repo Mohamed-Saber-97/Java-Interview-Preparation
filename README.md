@@ -38,7 +38,7 @@ the notes are mainly for myself and that there will be typos.**
         3. #### Java Annotation Processor
         4. #### Final Considerations
 2. ### Oracle Certified Professional
-    1. #### Basics of Java Programming
+    1. #### [Basics of Java Programming](./OracleCertifiedProfessional/chapter-1.md)
     2. #### Basic Elements, Primitive Data Types, and Operators
     3. #### Declarations
     4. #### Control Flow

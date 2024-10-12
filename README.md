@@ -39,7 +39,7 @@ the notes are mainly for myself and that there will be typos.**
         4. #### Final Considerations
 2. ### Oracle Certified Professional
     1. #### [Basics of Java Programming](./OracleCertifiedProfessional/chapter-1.md)
-    2. #### Basic Elements, Primitive Data Types, and Operators
+    2. #### [Basic Elements, Primitive Data Types, and Operators](./OracleCertifiedProfessional/chapter-2.md)
     3. #### Declarations
     4. #### Control Flow
     5. #### Object-Oriented Programming

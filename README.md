@@ -40,7 +40,7 @@ the notes are mainly for myself and that there will be typos.**
 2. ### Oracle Certified Professional
     1. #### [Basics of Java Programming](./OracleCertifiedProfessional/chapter-1.md)
     2. #### [Basic Elements, Primitive Data Types, and Operators](./OracleCertifiedProfessional/chapter-2.md)
-    3. #### Declarations
+    3. #### [Declarations](./OracleCertifiedProfessional/chapter-3.md)
     4. #### Control Flow
     5. #### Object-Oriented Programming
     6. #### Access Control

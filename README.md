@@ -42,7 +42,7 @@ the notes are mainly for myself and that there will be typos.**
     2. #### [Basic Elements, Primitive Data Types, and Operators](./OracleCertifiedProfessional/chapter-2.md)
     3. #### [Declarations](./OracleCertifiedProfessional/chapter-3.md)
     4. #### [Control Flow](./OracleCertifiedProfessional/chapter-4.md)
-    5. #### Object-Oriented Programming
+    5. #### [Object-Oriented Programming](./OracleCertifiedProfessional/chapter-5.md)
     6. #### Access Control
     7. #### Exception Handling
     8. #### Selected API Classes

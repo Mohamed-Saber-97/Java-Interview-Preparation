@@ -2,47 +2,25 @@
 
 ## Introduction
 
-This repository contains comprehensive notes on couple of books:
-
-* **_OCP Oracle Certified Professional Java SE 17 Developer (Exam 1Z0-829) Programmer’s Guide_** by **_Khalid A. Mughal_
-  ** and **_Vasily
-  A. Strelnikov_**
-* **_Mastering the Java Virtual Machine_** by **_Otávio Santana_**
-* **_Oracle® Certified Professional Java SE 17 Developer Study Guide Exam 1Z0- 829_** by
-  **_Scott Selikoff_** and **_Jeanne Boyarsky_**
-* **_Java Coding Problems Improve your Java Programming skills by solving real-world coding challenges_** by
-  _**Anghel Leonard**_
+* **_Oracle® Certified Professional Java SE 17 Developer Study Guide (Exam 1Z0-829)_** by **_Scott Selikoff_** and **_Jeanne Boyarsky_**
+* **_JVM Performance Engineering_** by **_Monica Beckwith_**
+* **_Java Coding Problems Improve your Java Programming skills by solving real-world coding challenges_** by  _**Anghel Leonard**_
+* **_RESTful Java Web Services Third Edition A pragmatic guide to designing and building RESTful APIs using Java_** by **_Bogunuva Mohanram Balachandar_**
+* **_Java Design Patterns A Hands-On Experience with Real-World Examples Third Edition_** by **_Vaskaran Sarcar_**
+* **_Design Patterns with Java An Introduction_** by **_Olaf Musch_**
 
 > Feel free to contribute by submitting pull requests to add or improve content.
 
-**Note: These materials are a supplementary resource and not intended as a standalone study guide, Please bear in mind
-the notes are mainly for myself and that there will be typos.**
+**Note: These materials are a supplementary resource and not intended as a standalone study guide, Please bear in mind the notes are mainly for myself and that there will be typos.**
 
 ## Content
 
-1. ### Mastering the Java Virtual Machine
-    1. ### Understanding the JVM
-        1. #### Introduction to the Java Virtual Machine
-        2. #### Class File Structure
-        3. #### Understanding Bytecodes
-    2. ### Memory Management and Execution
-        1. #### Execution Engine
-        2. #### Memory Management
-        3. #### Garbage Collection and Memory Profiling
-    3. ### Alternative JVMs
-        1. #### GraalVM
-        2. #### JVM Ecosystem and Alternative JVMs
-    4. ### Advanced Java Topics
-        1. #### Java Framework Principles
-        2. #### Reflection
-        3. #### Java Annotation Processor
-        4. #### Final Considerations
-2. ### Oracle Certified Professional
+1. ### Oracle Certified Professional
     1. #### [Basics of Java Programming](./OracleCertifiedProfessional/chapter-1.md)
-    2. #### [Basic Elements, Primitive Data Types, and Operators](./OracleCertifiedProfessional/chapter-2.md)
-    3. #### [Declarations](./OracleCertifiedProfessional/chapter-3.md)
-    4. #### [Control Flow](./OracleCertifiedProfessional/chapter-4.md)
-    5. #### [Object-Oriented Programming](./OracleCertifiedProfessional/chapter-5.md)
+    2. #### Basic Elements, Primitive Data Types, and Operators
+    3. #### Declarations
+    4. #### Control Flow
+    5. #### Object-Oriented Programming
     6. #### Access Control
     7. #### Exception Handling
     8. #### Selected API Classes
@@ -64,3 +42,4 @@ the notes are mainly for myself and that there will be typos.**
     24. #### Database Connectivity
     25. #### Annotations
     26. #### Secure Coding
+    27. #### Java Logging API Overview

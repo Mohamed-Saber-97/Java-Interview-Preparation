@@ -1,3 +1,27 @@
+<!-- TOC -->
+
+- [Basics of Java Programming](#basics-of-java-programming)
+    - [The Java Ecosystem](#the-java-ecosystem)
+        - [Multi-paradigm Programming](#multi-paradigm-programming)
+        - [Architecture-Neutral and Portable Bytecode](#architecture-neutral-and-portable-bytecode)
+        - [Simplicity](#simplicity)
+        - [Dynamic and Distributed](#dynamic-and-distributed)
+        - [Robust and Secure](#robust-and-secure)
+        - [High Performance and Multithreaded](#high-performance-and-multithreaded)
+    - [Classes](#classes)
+        - [Declaring Members: Fields and Methods](#declaring-members-fields-and-methods)
+    - [Objects](#objects)
+    - [Instance Members](#instance-members)
+    - [Static Members](#static-members)
+    - [Inheritance](#inheritance)
+    - [Aggregation](#aggregation)
+    - [Sample Java Program](#sample-java-program)
+        - [Running a Single-File Source-Code Program](#running-a-single-file-source-code-program)
+    - [Program Output](#program-output)
+
+<!-- TOC -->
+-----------------------------
+
 # Basics of Java Programming
 
 ## The Java Ecosystem
@@ -95,14 +119,16 @@
 
 - In order to run a single-file source-code program, the following conditions must be met:
     - The single source file must contain **_all_** source code for the program
-    - Although there can be several class declarations in the source file, the first class declaration in the source file must provide the `main()` method; that is, it must be the entry point of the program
+    - Although there can be several class declarations in the source file, the first class declaration in the source file must provide the `main()` method; that is, it must be the entry point of the
+      program
     - There must not exist `class` files corresponding to the class declarations in the single source file that are accessible by the **_java_** command
 
 - Note that no class files are created. The source code is compiled fully in memory and executed. Several public classes in the single source file is allowed
 
 ## Program Output
 
-- A Java program can send its output to the terminal window using an object called **_standard out_** which can be accessed using the `public static final` field out in the `System` class, is an object of the class `java.io.PrintStream`.
+- A Java program can send its output to the terminal window using an object called **_standard out_** which can be accessed using the `public static final` field out in the `System` class, is an
+  object of the class `java.io.PrintStream`.
 - The print methods convert a primitive value to a string that represents its literal value, and then print the resulting string
 - An object is first converted to its text representation by calling its `toString()` method implicitly, if it is not already called explicitly on the object.
 - The `toString()` method called on a `String` object returns the `String` object itself

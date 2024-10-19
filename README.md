@@ -20,7 +20,7 @@
     2. #### [Basic Elements, Primitive Data Types, and Operators](./OracleCertifiedProfessional/chapter-2.md)
     3. #### [Declarations](./OracleCertifiedProfessional/chapter-3.md)
     4. #### [Control Flow](./OracleCertifiedProfessional/chapter-4.md)
-    5. #### Object-Oriented Programming
+    5. #### [Object-Oriented Programming](./OracleCertifiedProfessional/chapter-5.md)
     6. #### Access Control
     7. #### Exception Handling
     8. #### Selected API Classes
@@ -43,3 +43,41 @@
     25. #### Annotations
     26. #### Secure Coding
     27. #### Java Logging API Overview
+2. ### Java Design Patterns
+    1. #### [A Brief Overview of GoF Design Patterns](./JavaDesignPatterns/chapter-1.md)
+    2. #### Understanding SOLID Principles
+    3. #### Simple Factory Pattern
+    4. #### Creational patterns
+        1. ##### Singleton pattern
+        2. ##### Prototype pattern
+        3. ##### Factory Method pattern
+        4. ##### Builder pattern
+        5. ##### Abstract Factory pattern
+    5. #### Structural patterns
+        1. ##### Proxy pattern
+        2. ##### Flyweight pattern
+        3. ##### Composite pattern
+        4. ##### Bridge pattern
+        5. ##### Facade pattern
+        6. ##### Decorator pattern
+        7. ##### Adapter pattern
+        1. #### Behavioral patterns
+    6. ##### Observer pattern
+        2. ##### Strategy pattern
+        3. ##### Template Method pattern
+        4. ##### Command pattern
+        5. ##### Iterator pattern
+        6. ##### Memento pattern
+        7. ##### State pattern
+        8. ##### Mediator pattern
+        9. ##### Chain of Responsibility pattern
+        10. ##### Visitor pattern
+        11. ##### Interpreter pattern
+    7. #### Extra patterns
+        1.  #### Null Object Pattern
+        2.  #### MVC Pattern
+        3.  #### Criticisms of Design Patterns
+        4.  #### Anti-Patterns
+        5.  #### Visitor Pattern
+        6.  #### Interpreter Pattern
+    8. #### Questions and Answers

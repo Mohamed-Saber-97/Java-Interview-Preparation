@@ -45,7 +45,7 @@
     27. #### Java Logging API Overview
 2. ### Java Design Patterns
     1. #### [A Brief Overview of GoF Design Patterns](./JavaDesignPatterns/chapter-1.md)
-    2. #### Understanding SOLID Principles
+    2. #### [Understanding SOLID Principles](./JavaDesignPatterns/chapter-2.md)
     3. #### Simple Factory Pattern
     4. #### Creational patterns
         1. ##### Singleton pattern

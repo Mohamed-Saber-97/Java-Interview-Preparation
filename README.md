@@ -46,7 +46,7 @@
 2. ### Java Design Patterns
     1. #### [A Brief Overview of GoF Design Patterns](./JavaDesignPatterns/chapter-1.md)
     2. #### [Understanding SOLID Principles](./JavaDesignPatterns/chapter-2.md)
-    3. #### Simple Factory Pattern
+    3. #### [Simple Factory Pattern](./JavaDesignPatterns/chapter-3.md)
     4. #### Creational patterns
         1. ##### Singleton pattern
         2. ##### Prototype pattern

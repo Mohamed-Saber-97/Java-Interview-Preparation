@@ -48,11 +48,11 @@
     2. #### [Understanding SOLID Principles](./JavaDesignPatterns/chapter-2.md)
     3. #### [Simple Factory Pattern](./JavaDesignPatterns/chapter-3.md)
     4. #### Creational patterns
-        1. ##### Singleton pattern
-        2. ##### Prototype pattern
-        3. ##### [Factory Method pattern](./JavaDesignPatterns/chapter-4.md)
-        4. ##### Builder pattern
-        5. ##### Abstract Factory pattern
+        1. ##### [Factory Method pattern](./JavaDesignPatterns/chapter-4.md)
+        2. ##### [Abstract Factory pattern](./JavaDesignPatterns/chapter-5.md)
+        3. ##### Singleton pattern
+        4. ##### Prototype pattern
+        5. ##### Builder pattern
     5. #### Structural patterns
         1. ##### Proxy pattern
         2. ##### Flyweight pattern
@@ -61,8 +61,8 @@
         5. ##### Facade pattern
         6. ##### Decorator pattern
         7. ##### Adapter pattern
-        1. #### Behavioral patterns
-    6. ##### Observer pattern
+    6. #### Behavioral patterns
+        1. ##### Observer pattern
         2. ##### Strategy pattern
         3. ##### Template Method pattern
         4. ##### Command pattern

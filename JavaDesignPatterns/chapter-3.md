@@ -43,8 +43,6 @@ class Tiger implements Animal {
 
 ```java
 // AnimalFactory.java
-package jdp3e.simplefactory;
-
 class AnimalFactory {
     public Animal createAnimal(String animalType) {
         Animal animal;

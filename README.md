@@ -50,7 +50,7 @@
     4. #### Creational patterns
         1. ##### Singleton pattern
         2. ##### Prototype pattern
-        3. ##### Factory Method pattern
+        3. ##### [Factory Method pattern](./JavaDesignPatterns/chapter-4.md)
         4. ##### Builder pattern
         5. ##### Abstract Factory pattern
     5. #### Structural patterns

@@ -21,7 +21,7 @@
     3. #### [Declarations](./OracleCertifiedProfessional/chapter-3.md)
     4. #### [Control Flow](./OracleCertifiedProfessional/chapter-4.md)
     5. #### [Object-Oriented Programming](./OracleCertifiedProfessional/chapter-5.md)
-    6. #### Access Control
+    6. #### [Access Control](./OracleCertifiedProfessional/chapter-6.md)
     7. #### Exception Handling
     8. #### Selected API Classes
     9. #### Nested Type Declarations

@@ -23,7 +23,7 @@
     5. #### [Object-Oriented Programming](./OracleCertifiedProfessional/chapter-5.md)
     6. #### [Access Control](./OracleCertifiedProfessional/chapter-6.md)
     7. #### [Exception Handling](./OracleCertifiedProfessional/chapter-7.md)
-    8. #### Selected API Classes
+    8. #### [Selected API Classes](./OracleCertifiedProfessional/chapter-8.md)
     9. #### Nested Type Declarations
     10. #### Object Lifetime
     11. #### Generics

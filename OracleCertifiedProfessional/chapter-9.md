@@ -1,3 +1,17 @@
+* [Nested Type Declarations](#nested-type-declarations)
+    * [Overview of Nested Type Declarations](#overview-of-nested-type-declarations)
+    * [Static Member Types](#static-member-types)
+        * [Importing Static Member Types](#importing-static-member-types)
+        * [Accessing Members in Enclosing Context](#accessing-members-in-enclosing-context)
+    * [Anonymous Classes](#anonymous-classes)
+        * [Declaring Anonymous Classes](#declaring-anonymous-classes)
+        * [Extending an Existing Class](#extending-an-existing-class)
+        * [Instantiating Anonymous Classes](#instantiating-anonymous-classes)
+            * [Accessing Local Declarations in the Enclosing Block](#accessing-local-declarations-in-the-enclosing-block)
+            * [Accessing Members in the Enclosing Class](#accessing-members-in-the-enclosing-class)
+
+----
+
 # Nested Type Declarations
 
 ## Overview of Nested Type Declarations
@@ -83,7 +97,7 @@ member_declarations
 }
 ```
 
-- Optional type arguments and constructor arguments can be specified, which are passed to the superclass constructor. Thus the superclass must provide a constructor corresponding to the arguments passed. No extends clause is used in the construct
+- Optional type arguments and constructor arguments can be specified, which are passed to the superclass constructor. Thus, the superclass must provide a constructor corresponding to the arguments passed. No extends clause is used in the construct
 
 ```java
 interface IDrawable { // (1)

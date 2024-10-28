@@ -24,7 +24,7 @@
     6. #### [Access Control](./OracleCertifiedProfessional/chapter-6.md)
     7. #### [Exception Handling](./OracleCertifiedProfessional/chapter-7.md)
     8. #### [Selected API Classes](./OracleCertifiedProfessional/chapter-8.md)
-    9. #### Nested Type Declarations
+    9. #### [Nested Type Declarations](./OracleCertifiedProfessional/chapter-9.md)
     10. #### Object Lifetime
     11. #### Generics
     12. #### Collections, Part I: ArrayList<E>

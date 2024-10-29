@@ -28,7 +28,7 @@
     10. #### [Object Lifetime](./OracleCertifiedProfessional/chapter-10.md)
     11. #### [Generics](./OracleCertifiedProfessional/chapter-11.md)
     12. #### [Collections, Part I: ArrayList<E>](./OracleCertifiedProfessional/chapter-12.md)
-    13. #### Functional-Style Programming
+    13. #### [Functional-Style Programming](./OracleCertifiedProfessional/chapter-13.md)
     14. #### Object Comparison
     15. #### Collections: Part II
     16. #### Streams

@@ -29,7 +29,7 @@
     11. #### [Generics](./OracleCertifiedProfessional/chapter-11.md)
     12. #### [Collections, Part I: ArrayList<E>](./OracleCertifiedProfessional/chapter-12.md)
     13. #### [Functional-Style Programming](./OracleCertifiedProfessional/chapter-13.md)
-    14. #### Object Comparison
+    14. #### [Object Comparison](./OracleCertifiedProfessional/chapter-14.md)
     15. #### Collections: Part II
     16. #### Streams
     17. #### Date and Time

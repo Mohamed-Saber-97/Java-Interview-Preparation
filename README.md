@@ -27,7 +27,7 @@
     9. #### [Nested Type Declarations](./OracleCertifiedProfessional/chapter-9.md)
     10. #### [Object Lifetime](./OracleCertifiedProfessional/chapter-10.md)
     11. #### [Generics](./OracleCertifiedProfessional/chapter-11.md)
-    12. #### Collections, Part I: ArrayList<E>
+    12. #### [Collections, Part I: ArrayList<E>](./OracleCertifiedProfessional/chapter-12.md)
     13. #### Functional-Style Programming
     14. #### Object Comparison
     15. #### Collections: Part II

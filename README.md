@@ -37,7 +37,7 @@
     19. #### Java Module System
     20. #### Java I/O: Part I
     21. #### Java I/O: Part II
-    22. #### Concurrency: Part I
+    22. #### [Concurrency: Part I](./OracleCertifiedProfessional/chapter-22.md)
     23. #### Concurrency: Part II
     24. #### Database Connectivity
     25. #### Annotations

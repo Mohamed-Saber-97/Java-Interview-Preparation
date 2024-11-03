@@ -31,7 +31,7 @@
     13. #### [Functional-Style Programming](./OracleCertifiedProfessional/chapter-13.md)
     14. #### [Object Comparison](./OracleCertifiedProfessional/chapter-14.md)
     15. #### [Collections: Part II](./OracleCertifiedProfessional/chapter-15.md)
-    16. #### Streams
+    16. #### [Streams](./OracleCertifiedProfessional/chapter-16.md)
     17. #### Date and Time
     18. #### Localization
     19. #### Java Module System
